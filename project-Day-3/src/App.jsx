@@ -9,9 +9,7 @@ function App() {
 
       <Card title="Exercise 1: CSS Modules">
         <p>
-          This card uses <code>Card.module.css</code>. Open browser devtools and
-          inspect this element to see class names like
-          <code> Card_container__hash123</code>.
+          This card is styled with <code>Card.module.css</code> using scoped CSS module classes.
         </p>
       </Card>
 
